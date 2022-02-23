@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.player {
+  background-color: azure;
+  color: #282c34;
+  width: 200px;
+  height: 200px;
+  border-radius: 5px;
+  text-align: left;
+}
+
+.token-block {
+  position: relative;
+  bottom: 0;
+}
+
+.player-img {
+  height: 100px;
+  width: 100px;
+}
