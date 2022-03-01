@@ -48,7 +48,15 @@
 
 .token-block {
   position: relative;
-  bottom: 0;
+  bottom: 0px;
+  padding: 5px;
+}
+
+.token-piece {
+  width: 40px;
+  height: 40px;
+  float: left;
+  padding-left: 5px;
 }
 
 .player-img {
